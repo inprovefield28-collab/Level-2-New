@@ -1,51 +1,52 @@
-id,question,A,B,C,Answerkey
-151,How's the weather?,It's sunny.,"Yes, it is.",I'm happy.,A
-152,Is it cold today?,"Yes, it is.",It's windy.,"No, I'm not.",A
-153,Are you thirsty?,"Yes, I am.","No, I don't.",He is tired.,A
-154,Is she tired?,"Yes, she is.","Yes, I am.","No, she don't.",A
-155,What are these?,They're oranges.,They're apple.,It's an orange.,A
-156,Do you like apples?,"Yes, I do.","No, I'm not.","Yes, I am.",A
-157,What are those?,They're bananas.,It's a banana.,I like bananas.,A
-158,Do you like watermelons?,"No, I don't.","Yes, I am.","No, I'm not.",A
-159,Do you want some juice?,"Yes, I please.","No, I'm not.","No, please.",A
-160,What do you want?,I want some milk.,"Yes, I do.",I want a water.,A
-161,What time is it?,It's four o'clock.,It's four thirty o'clock.,I'm four.,A
-162,What time is it?,It's seven thirty.,It seven thirty.,It's seven thirty o'clock.,A
-163,Are you and your sister hungry?,"Yes, we are.","No, she isn't.","Yes, I do.",A
-164,What are those on the table?,They're watermelons.,It's a watermelon.,I like watermelons.,A
-165,Is he swimming in the gym?,"Yes, he is.","No, he isn't swim.","Yes, he's swim.",A
-166,What are you doing?,I'm writing.,I'm write.,I writing.,A
-167,What's he doing?,He's swimming.,He is swim.,He swimming.,A
-168,What's she doing?,She's reading.,She is read.,She reading.,A
-169,Where are you?,I'm in the bedroom.,I'm at bedroom.,I'm on the bedroom.,A
-170,Where's Teddy?,He's in the dining room.,It's in the dining room.,He's in dining room.,A
-171,Where is your uncle?,He's in the kitchen.,He's very tall.,He's fine.,A
-172,Where's my pen?,It's on the box.,It's a pen.,They're on the box.,A
-173,Where's the bag?,It's under the desk.,They're under the desk.,It's under desk.,A
-174,Where is the cat?,It's in the box.,It's on the box.,It's under the box.,A
-175,Is he in the yard?,"Yes, he is.","No, she isn't.","Yes, I am.",A
-176,How's the weather?,It's sunny.,"Yes, it is.",I'm happy.,A
-177,Is it cold today?,"Yes, it is.",It's windy.,"No, I'm not.",A
-178,Are you thirsty?,"Yes, I am.",He is tired.,"No, I don't.",A
-179,Is she tired?,"Yes, she is.","Yes, I am.","No, she don't.",A
-180,What are these?,They're oranges.,It's an orange.,They're apple.,A
-181,Do you like apples?,"Yes, I do.","No, I'm not.","Yes, I am.",A
-182,What are those?,They're bananas.,I like bananas.,It's a banana.,A
-183,Do you like watermelons?,"No, I don't.","Yes, I am.","No, I'm not.",A
-184,Do you want some juice?,"Yes, please.","No, you don't.","No, I'm not.",A
-185,What do you want?,I want some juice.,I want a milk.,"Yes, I do.",A
-186,What time is it?,It's four o'clock.,I'm four.,It's four thirty o'clock.,A
-187,What time is it?,It's seven thirty.,It seven thirty.,It's seven thirty o'clock.,A
-188,Where are the books?,They're under the bed.,It's under the bed.,There are books.,A
-189,It's 7:30. Time for school.,Hurry up!,I'm fine.,Thank you.,A
-190,What are you doing?,I'm reading a book.,I'm read a book.,I reading a book.,A
-191,What are you doing?,I'm writing.,I'm write.,I writing.,A
-192,What's he doing?,He's swimming.,He swimming.,He is swim.,A
-193,What's she doing?,She's reading.,She reading.,She is read.,A
-194,Where are you?,I'm in the bedroom.,I'm on the bedroom.,I'm at bedroom.,A
-195,Where's Teddy?,He's in the dining room.,He's in dining room.,It's in the dining room.,A
-196,Where is your grandma?,She's in the kitchen.,She's in the yard.,She's in the bathroom.,A
-197,Where's my book?,It's red.,It's on the box.,They're on the box.,A
-198,Where's the bag?,It's under the desk.,They're under the desk.,It's under desk.,A
-199,Where is the cat?,It's in the box.,It's on the box.,It's under the box.,A
-200,Is he in the yard?,"Yes, he is.","Yes, I am.","No, she isn't.",A
+id,question,A,B,C,Answerkey,,,,,,
+151,How's the weather?,It's sunny.,"Yes, it is.",I'm happy.,A,,,,,,
+152,Is it cold today?,"Yes, it is.",It's windy.,"No, I'm not.",A,,,,,,
+153,Are you thirsty?,"Yes, I am.","No, I don't.",He is tired.,A,,,,,,
+154,Is she tired?,"Yes, she is.","Yes, I am.","No, she don't.",A,,,,,,
+155,What are these?,They're oranges.,They're apple.,It's an orange.,A,,,,,,
+156,Do you like apples?,"Yes, I do.","No, I'm not.","Yes, I am.",A,,,,,,
+157,What are those?,They're bananas.,It's a banana.,I like bananas.,A,,,,,,
+158,Do you like watermelons?,"No, I don't.","Yes, I am.","No, I'm not.",A,,,,,,
+159,Do you want some juice?,"Yes, I please.","No, I'm not.","No, please.",A,,,,,,
+160,What do you want?,I want some milk.,"Yes, I do.",I want a water.,A,,,,,,
+161,What time is it?,It's four o'clock.,It's four thirty o'clock.,I'm four.,A,,,,,,
+162,What time is it?,It's seven thirty.,It seven thirty.,It's seven thirty o'clock.,A,,,,,,
+163,Are you and your sister hungry?,"Yes, we are.","No, she isn't.","Yes, I do.",A,,,,,,
+164,What are those on the table?,They're watermelons.,It's a watermelon.,I like watermelons.,A,,,,,,
+165,Is he swimming in the gym?,"Yes, he is.","No, he isn't swim.","Yes, he's swim.",A,,,,,,
+166,What are you doing?,I'm writing.,I'm write.,I writing.,A,,,,,,
+167,What's he doing?,He's swimming.,He is swim.,He swimming.,A,,,,,,
+168,What's she doing?,She's reading.,She is read.,She reading.,A,,,,,,
+169,Where are you?,I'm in the bedroom.,I'm at bedroom.,I'm on the bedroom.,A,,,,,,
+170,Where's Teddy?,He's in the dining room.,It's in the dining room.,He's in dining room.,A,,,,,,
+171,Where is your uncle?,He's in the kitchen.,He's very tall.,He's fine.,A,,,,,,
+172,Where's my pen?,It's on the box.,It's a pen.,They're on the box.,A,,,,,,
+173,Where's the bag?,It's under the desk.,They're under the desk.,It's under desk.,A,,,,,,
+174,Where is the cat?,It's in the box.,It's in the pencil case.,"Yes, it's on the box.",A,,,,,,
+175,Is he in the yard?,"Yes, he is.","No, she isn't.","Yes, I am.",A,,,,,,
+176,How's the weather?,It's sunny.,"Yes, it is.",I'm happy.,A,,,,,,
+177,Is it cold today?,"Yes, it is.",It's windy.,"No, I'm not.",A,,,,,,
+178,Are you thirsty?,"Yes, I am.",He is tired.,"No, I don't.",A,,,,,,
+179,Is she tired?,"Yes, she is.","Yes, I am.","No, she don't.",A,,,,,,
+180,What are these?,They're oranges.,It's an orange.,They're apple.,A,,,,,,
+181,Do you like apples?,"Yes, I do.","No, I'm not.","Yes, I am.",A,,,,,,
+182,What are those?,They're bananas.,I like bananas.,It's a banana.,A,,,,,,
+183,Do you like watermelons?,"No, I don't.","Yes, I am.","No, I'm not.",A,,,,,,
+184,Do you want some juice?,"Yes, please.","No, you don't.","No, I'm not.",A,,,,,,
+185,What do you want?,I want some juice.,I want a milk.,"Yes, I do.",A,,,,,,
+186,What time is it?,It's four o'clock.,I'm four.,It's four thirty o'clock.,A,,,,,,
+187,What time is it?,It's seven thirty.,It seven-thirty.,It's seven thirty o'clock.,A,,,,,,
+188,Where are the books?,They're under the bed.,It's under the bed.,There are books.,A,,,,,,
+189,It's 7:30. Time for school.,Hurry up!,I'm fine.,Thank you.,A,,,,,,
+190,What are you doing?,I'm reading a book.,I'm read a book.,I reading a book.,A,,,,,,
+191,What are you doing?,I'm writing.,I'm write.,I writing.,A,,,,,,
+192,What's he doing?,He's swimming.,He swimming.,He is swim.,A,,,,,,
+193,What's she doing?,She's reading.,She reading.,She is read.,A,,,,,,
+194,Where are you?,I'm in the bedroom.,I'm on the bedroom.,I'm at bedroom.,A,,,,,,
+195,Where's Teddy?,He's in the dining room.,He's in dining room.,It's in the dining room.,A,,,,,,
+196,Where is your grandma?,She's in the kitchen.,She's in the yard.,She's in the bathroom.,A,,,,,,
+197,Where's my book?,It's red.,It's on the box.,They're on the box.,A,,,,,,
+198,Where's the bag?,It's under the desk.,They're under the desk.,It's under desk.,A,,,,,,
+199,Where is the cat?,It's under the table.,It's in the table.,"Yes, it's on the table.",A,,,,,,
+200,Is he in the yard?,"Yes, he is.","Yes, I am.","No, she isn't.",A,,,,,,
+,,,,,,,,,,,
